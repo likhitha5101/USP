@@ -1,0 +1,21 @@
+Script started on Tuesday 06 August 2019 06:56:23 PM IST
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ first="O[KPARENT"
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ ECHO [K[K[K[K[Kecho $first
+PARENT
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ [K]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ echo $0
+bash
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ bas[K[K[K[K]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ bash
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ more file1[3Ppr[8@ls > file1 >[C[C[C(file1 && pr)[3Pfile1 > pr[8Pmore[C[C[Cfile1[Kecho $first
+
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ scond [K[K[K[K[Kecond="SUBSHELL"
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ echo second[C[C$second
+SUBSHELL
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ exit
+exit
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ bashecho $0first
+PARENT
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ echo $first[K[K[K[K[Ksecond
+
+]0;cse-185001084@CCL-19: ~[01;32mcse-185001084@CCL-19[00m:[01;34m~[00m$ exit
+
+Script done on Tuesday 06 August 2019 07:00:17 PM IST

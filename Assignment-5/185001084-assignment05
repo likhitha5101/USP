@@ -1,0 +1,655 @@
+Script started on Friday 09 August 2019 09:25:37 AM IST
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ gma[K[K[Kcat > Ch6S1F1
+^[[4~^[[D^[[B^[[E                 147 25	Juan	14.25
+4321	George	21.11
+6781 N  	Anna	16.77
+1487  51	Ben	21.77
+2277	Tuan	18.77
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S1F1 
+1425	Juan	14.25
+4321	George	21.11
+6781	Anna	16.77
+1451	Ben	21.77
+2277	Tuan	18.77
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 Ch6S1F1 >C[K Ch6S1F1 [1P 2 
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ rem[K[Km Ch6S1F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ mv Ch6S1F2 Ch6S1F2 [1P 1 
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ mv Ch6S1F2 Ch6S1F1 [9Prm Ch6S1F1sort -k1 Ch6S1F1 > Ch6S1F2 [15Pcat Ch6S1F1[C
+1425	Juan	14.25
+1451	Ben	21.77
+2277	Tuan	18.77
+4321	George	21.11
+6781	Anna	16.77
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ pasts[Ke <(cut -f1,3 Ch6S1F1 ) [C < ( c  [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu  t [C - f 2 [C C h6S1F1 ) [C > f i l e [1@ 
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat file
+1425	14.25	Juan
+1451	21.77	Ben
+2277	18.77	Tuan
+4321	21.11	George
+6781	16.77	Anna
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat filepaste <(cut -f1,3 Ch6S1F1) <(cutt -f2 Ch6S1F1) > file [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [19Pcat Ch6S1F1 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@mv Ch6S1F2[C[C[C[C[C[C[C[C[C[9Prm Ch6S1F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ rm Ch6S1F1[2Pcat filepaste <(cut -f1,3 Ch6S1F1) <(cutt -f2 Ch6S1F1) > file [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [19Pcat Ch6S1F1 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@mv Ch6S1F2[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1@f[1@i[1@e[1@l[1P[1P[1@l[1@e
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ mv file Ch6S1F1 [6Prm Ch6S1F1[2Pcat filerm Ch6S1F1mv file Ch6S1F1 [Kmv file Ch6S1F1 [6Prm Ch6S1F1[2Pcat filepaste <(cut -f1,3 Ch6S1F1) <(cutt -f2 Ch6S1F1) > file [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [19Pcat Ch6S1F1 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@mv Ch6S1F2[C[C[C[C[C[C[C[C[C[7Pcat[C[C[C[C[C[C[C[C[C
+1425	14.25	Juan
+1451	21.77	Ben
+2277	18.77	Tuan
+4321	21.11	George
+6781	16.77	Anna
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ echi[Ko "EXERCISE 2"
+EXERCISE 2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tail > Ch6S2F1 << EOF
+> PASSES ALL DATA FROM INPUT TO OUTPUT
+> PASSES ONLY SPECIFIED COLUMNS
+> PASSES NUMBER OF SPECIFIED LINES AT BEGINNING
+> COMBINES COLUMNS
+> ARRANGES DATA IN SEQUENCE
+> PASSES NUMBER OF SPECIFIED LINES AT THE END OF DATA
+> TRANSLATES ONE OR MORE CHARACTERS
+> DELETES DUPLICATE LINES
+> COUNTS CHARACTERS} WORDS, OR’LINES
+> ABCDEFGHIJKLMNOPQRSTUVWXYZ
+> EOF
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tail [K[K[K[K[Kcat Ch6S2F1 
+PASSES ALL DATA FROM INPUT TO OUTPUT
+PASSES ONLY SPECIFIED COLUMNS
+PASSES NUMBER OF SPECIFIED LINES AT BEGINNING
+COMBINES COLUMNS
+ARRANGES DATA IN SEQUENCE
+PASSES NUMBER OF SPECIFIED LINES AT THE END OF DATA
+TRANSLATES ONE OR MORE CHARACTERS
+DELETES DUPLICATE LINES
+COUNTS CHARACTERS} WORDS, OR’LINES
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tac Ch6S2F1 >file file
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat file
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+COUNTS CHARACTERS} WORDS, OR’LINES
+DELETES DUPLICATE LINES
+TRANSLATES ONE OR MORE CHARACTERS
+PASSES NUMBER OF SPECIFIED LINES AT THE END OF DATA
+ARRANGES DATA IN SEQUENCE
+COMBINES COLUMNS
+PASSES NUMBER OF SPECIFIED LINES AT BEGINNING
+PASSES ONLY SPECIFIED COLUMNS
+PASSES ALL DATA FROM INPUT TO OUTPUT
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ rm file
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ rm file[1@cat[C[C[C[C[C[10@tac Ch6S2F1 >[C[C[C[C[C[K[K[K[KCh6S2F1 E n c r 
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S2F1E
+cat: Ch6S2F1E: No such file or directory
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S2F1Encr 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+COUNTS CHARACTERS} WORDS, OR’LINES
+DELETES DUPLICATE LINES
+TRANSLATES ONE OR MORE CHARACTERS
+PASSES NUMBER OF SPECIFIED LINES AT THE END OF DATA
+ARRANGES DATA IN SEQUENCE
+COMBINES COLUMNS
+PASSES NUMBER OF SPECIFIED LINES AT BEGINNING
+PASSES ONLY SPECIFIED COLUMNS
+PASSES ALL DATA FROM INPUT TO OUTPUT
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tac Ch6S2F1Encr > Ch6S2F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S2F1
+PASSES ALL DATA FROM INPUT TO OUTPUT
+PASSES ONLY SPECIFIED COLUMNS
+PASSES NUMBER OF SPECIFIED LINES AT BEGINNING
+COMBINES COLUMNS
+ARRANGES DATA IN SEQUENCE
+PASSES NUMBER OF SPECIFIED LINES AT THE END OF DATA
+TRANSLATES ONE OR MORE CHARACTERS
+DELETES DUPLICATE LINES
+COUNTS CHARACTERS} WORDS, OR’LINES
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S3F1
+ALPHABETICAL FACTS.
+THE FIRST THREE LETTERS ARE ABC.
+THE MEDIAN LETTERS ARE MN.
+THE LAST THREE LETTERS ARE XYZ.
+THE FIRST WORD IN MY DICTIONARY IS AAL.
+THE LAST WORD IN MY DICTIONARY IS ZYTHUM.
+THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.
+THE LAST LETTER MAY BE PRONOUNCED ZEE OR ZED.
+THE FIRST GREEK LETTER IS ALPHA.
+THE LAST GREEK LETTER IS OMEGA.
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S3F1 
+ALPHABETICAL FACTS.
+THE FIRST THREE LETTERS ARE ABC.
+THE MEDIAN LETTERS ARE MN.
+THE LAST THREE LETTERS ARE XYZ.
+THE FIRST WORD IN MY DICTIONARY IS AAL.
+THE LAST WORD IN MY DICTIONARY IS ZYTHUM.
+THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.
+THE LAST LETTER MAY BE PRONOUNCED ZEE OR ZED.
+THE FIRST GREEK LETTER IS ALPHA.
+THE LAST GREEK LETTER IS OMEGA.
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tr[K[Ke[Kcat Ch6S3F1 > tr [1P[1@|[C[C[C[C"[a[KA-z[KZ}"[K[K]" "[F-ZA -E]" | cat file
+cat: file: No such file or directory
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S3F1 | tr "[A-Z]" "[F-ZA--E]" | cat file[K[K[K[K[K[K[K[K[K[K[K > file
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat file
+FQUMFGJYNHFQ KFHYX.
+YMJ KNWXY YMWJJ QJYYJWX FWJ FGH.
+YMJ RJINFS QJYYJWX FWJ RS.
+YMJ QFXY YMWJJ QJYYJWX FWJ CDE.
+YMJ KNWXY BTWI NS RD INHYNTSFWD NX FFQ.
+YMJ QFXY BTWI NS RD INHYNTSFWD NX EDYMZR.
+YMJ VZNHP GWTBS KTC OZRUJI TAJW YMJ QFED ITL.
+YMJ QFXY QJYYJW RFD GJ UWTSTZSHJI EJJ TW EJI.
+YMJ KNWXY LWJJP QJYYJW NX FQUMF.
+YMJ QFXY LWJJP QJYYJW NX TRJLF.
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat fileCh6S3F1 | tr "[A-Z]" "[F-ZA--E]" > file[K[K[K[KCh6S3F1 [KEncr
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S#[K3F1Encr 
+FQUMFGJYNHFQ KFHYX.
+YMJ KNWXY YMWJJ QJYYJWX FWJ FGH.
+YMJ RJINFS QJYYJWX FWJ RS.
+YMJ QFXY YMWJJ QJYYJWX FWJ CDE.
+YMJ KNWXY BTWI NS RD INHYNTSFWD NX FFQ.
+YMJ QFXY BTWI NS RD INHYNTSFWD NX EDYMZR.
+YMJ VZNHP GWTBS KTC OZRUJI TAJW YMJ QFED ITL.
+YMJ QFXY QJYYJW RFD GJ UWTSTZSHJI EJJ TW EJI.
+YMJ KNWXY LWJJP QJYYJW NX FQUMF.
+YMJ QFXY LWJJP QJYYJW NX TRJLF.
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S3F1Encr  | tr "[A-Z]" "[F-ZA--E]" > Ch6S3F1Encr[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[Cfile[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CCh6S3F1 | tr "[A-Z]" "[F-ZA--E]" > file[4@| cat[C[C[C[C[C[C[C[C[C[C[4P>[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CE | tr "[A-Z]" "[F-ZA[1@-[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[Cncr | tr "[A-Z]" "[F[C[3@ZA-[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]" "[F-[1P[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]" "[F-Z[1P[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]" "[F-ZA[1P[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF]" "[F-Z[1@A[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-]" "[F-[1@Z[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CZ]" "[F[1@-[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA]" "[[1@F[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-]" "[1@[[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CE]" [1@"[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1@A[1@-[1@Z[C[C[C[C[C[C[C[C[C[K[K[K[Kc3[K[KCh6S3F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S#[K3F1
+ALPHABETICAL FACTS.
+THE FIRST THREE LETTERS ARE ABC.
+THE MEDIAN LETTERS ARE MN.
+THE LAST THREE LETTERS ARE XYZ.
+THE FIRST WORD IN MY DICTIONARY IS AAL.
+THE LAST WORD IN MY DICTIONARY IS ZYTHUM.
+THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.
+THE LAST LETTER MAY BE PRONOUNCED ZEE OR ZED.
+THE FIRST GREEK LETTER IS ALPHA.
+THE LAST GREEK LETTER IS OMEGA.
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ ed[Kcho "EXERCISE 4"
+EXERCISE 4
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S4S1F1[1PF1[1PF1
+1420 12.56   45 L
+3456 14.56   22
+2341 45.12   34
+1122 23.55   28
+1443 23.23   19
+2351 67.90   56
+8001 7.00    14^[[A     4^[[D     4i                ]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S4F1
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+8001	4 7.00	14
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S4F1 
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+8001	7.00	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S4F1 | wc -l
+7
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sirt [K[K[K[K[Ksort -k1 Ch6S4F1 
+1122	23.55	28
+1420	12.56	45
+1443	23.23	19
+2341	45.12	34
+2351	67.90	56
+3456	14.56	22
+8001	7.00	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 Ch6S4F1 [C[C[C[1@-[1P[C[1@ [1@-[1@n
+1122	23.55	28
+1420	12.56	45
+1443	23.23	19
+2341	45.12	34
+2351	67.90	56
+3456	14.56	22
+8001	7.00	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 -n Ch6S4F1 [1P[1@2[C[C[C[C[C[C[C[C[C[C[C| [1P [C | [C h e a d [C [1@r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- 1  [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+2351	67.90	56
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k2 -nr Ch6S4F1 | head -1  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 -nr Ch6S4F1 | head -1  [A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+| cut f1
+cut: you must specify a list of bytes, characters, or fields
+Try `cut --help' for more information.
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k3 -nr Ch6S4F1 | head -1 || cut f1[K[K-c1
+2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k3 -nr Ch6S4F1 | head -1 || cut -c1[K[K[K[K[K[K[K[K[K[A
+2351	67.90	56
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k3 -nr Ch6S4F1 | head -1  | cut -c1[1Pf1-f1
+2351
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ echi [K[Ko "EXERCISE 5"
+EXERCISE 5
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat < Ch6S4F1 > Ch6S5F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F1 
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+8001	7.00	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > c5[K[KCh6S5F1 [K[K2
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+8001	7.00	14
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S5F2[1PCh6S5F1 [K[K2
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+8001	7.00	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F2> Ch6S5F2
+^[[1;2A       1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+3467	56.90	14
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S5F2[2PCh6S5F2
+1420	12.56	45
+3456	14.56	22
+2341	45.12	34
+1122	23.55	28
+1443	23.23	19
+2351	67.90	56
+3467	56.90	14
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sotr[K[Kt =[K[K[Krt -k1 -n Ch6S5F1 > file1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 -n Ch6S5F1 > file1[1P[1@2[C[C[C[C[C[C[C[K2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ merger[K file1 file2
+The program 'merge' is currently not installed.  You can install it by typing:
+sudo apt-get install rcs
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sudo apt-get install rcs
+[sudo] password for likhitha: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 1%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following NEW packages will be installed:
+  rcs
+0 upgraded, 1 newly installed, 0 to remove and 332 not upgraded.
+Need to get 365 kB of archives.
+After this operation, 770 kB of additional disk space will be used.
+0% [Working]            Get:1 http://in.archive.ubuntu.com/ubuntu/ precise/universe rcs i386 5.7-25 [365 kB]
+            0% [1 rcs 0 B/365 kB 0%]                        100% [Working]              Fetched 365 kB in 0s (652 kB/s)
+Selecting previously unselected package rcs.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 144715 files and directories currently installed.)
+Unpacking rcs (from .../archives/rcs_5.7-25_i386.deb) ...
+Processing triggers for man-db ...
+Setting up rcs (5.7-25) ...
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sudo apt-get install rcs[7Pmerge file1 file2
+merge: not enough arguments
+merge: usage: merge [-AeEpqxX3] [-L lab [-L lab [-L lab]]] file1 file2 file3
+merge aborted
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ merge file1 file2[1@ [C[C[C[1@ [1@C[3@h6S[1@5[1@F[1@3[C[1P[1P[1@ [C[C[C[C[C[C[C[C[C[C[C
+/usr/bin/diff3: Ch6S5F3: No such file or directory
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ touch Ch6S5F3
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ touch Ch6S5F3merge Ch6S5F3 file1 file2
+merge: warning: conflicts during merge
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F3
+<<<<<<< Ch6S5F3
+=======
+1122	23.55	28
+1420	12.56	45
+1443	23.23	19
+2341	45.12	34
+2351	67.90	56
+3456	14.56	22
+3467	56.90	14
+>>>>>>> file2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F3 | uniq
+<<<<<<< Ch6S5F3
+=======
+1122	23.55	28
+1420	12.56	45
+1443	23.23	19
+2341	45.12	34
+2351	67.90	56
+3456	14.56	22
+3467	56.90	14
+>>>>>>> file2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F3 | uniq | file3
+No command 'file3' found, did you mean:
+ Command 'file2' from package 'file-kanji' (universe)
+ Command 'filep' from package 'mp' (universe)
+ Command 'file' from package 'file' (main)
+file3: command not found
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F3 | uniq | file3cfile3afile3tfile3 file3
+cat: file3: No such file or directory
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S5F3 | uniq | cat file3[1P file3[1P file3[1P file3[1Pfile3[1P file3> file3[C file3
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ echi[Ko "EXERCISE 6"
+EXERCISE 6
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ CAT [K[K[K[Kca [Kt > Ch6S6[K6F1
+CIS     15      1       45
+CIS     54      1       20
+BUS     34      2       20
+ENG     11      2       89
+CIS     45      1       38
+MTH     35      1       56
+MTH     35      2       41
+PE      17      2       25
+CIS     54      2       67
+^C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat > Ch6S6F1[1PCh6S6F1[1PCh6S6F1[1PCh6S6F1 Ch6S6F1
+CIS     15      1       45
+CIS     54      1       20
+BUS     34      2       20
+ENG     11      2       89
+CIS     45      1       38
+MTH     35      1       56
+MTH     35      2       41
+PE      17      2       25
+CIS     54      2       67
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 -k2,3 -n c[KCh6S5[K6F1 
+ENG     11      2       89
+CIS     15      1       45
+PE      17      2       25
+BUS     34      2       20
+MTH     35      1       56
+MTH     35      2       41
+CIS     45      1       38
+CIS     54      1       20
+CIS     54      2       67
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 -k2,3 -n Ch6S6F1 [C[C[C[C[1P[1P[1P[1P[1P[1@,
+sort: stray character in field spec: invalid field specification `1,2,3'
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1,2,3  Ch6S6F1 [1P[1P
+BUS     34      2       20
+CIS     15      1       45
+CIS     45      1       38
+CIS     54      1       20
+CIS     54      2       67
+ENG     11      2       89
+MTH     35      1       56
+MTH     35      2       41
+PE      17      2       25
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1,3  Ch6S6F1 > file
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cta[K[Kat file
+BUS     34      2       20
+CIS     15      1       45
+CIS     45      1       38
+CIS     54      1       20
+CIS     54      2       67
+ENG     11      2       89
+MTH     35      1       56
+MTH     35      2       41
+PE      17      2       25
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ echo "exercise 7"[1P[1P[1P[1P[1P[1P[1P[1P 7"E 7"X 7"E 7"R 7"C 7"I 7"S 7"E 7"
+EXERCISE 7
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cp /etc/passwd Ch6S7F2[K1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ wc -l Ch6S7F1 
+34 Ch6S7F1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ co[Kut -d":" -f1,2 Ch6S7F1 > Ch6S7 F1 [K[K2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S7F2
+root:x
+daemon:x
+bin:x
+sys:x
+sync:x
+games:x
+man:x
+lp:x
+mail:x
+news:x
+uucp:x
+proxy:x
+www-data:x
+backup:x
+list:x
+irc:x
+gnats:x
+nobody:x
+libuuid:x
+syslog:x
+messagebus:x
+colord:x
+lightdm:x
+whoopsie:x
+avahi-autoipd:x
+avahi:x
+usbmux:x
+kernoops:x
+pulse:x
+rtkit:x
+speech-dispatcher:x
+hplip:x
+saned:x
+likhitha:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 Ch6S7F2 >[K| cat c7[K[KCh6S7F2
+root:x
+daemon:x
+bin:x
+sys:x
+sync:x
+games:x
+man:x
+lp:x
+mail:x
+news:x
+uucp:x
+proxy:x
+www-data:x
+backup:x
+list:x
+irc:x
+gnats:x
+nobody:x
+libuuid:x
+syslog:x
+messagebus:x
+colord:x
+lightdm:x
+whoopsie:x
+avahi-autoipd:x
+avahi:x
+usbmux:x
+kernoops:x
+pulse:x
+rtkit:x
+speech-dispatcher:x
+hplip:x
+saned:x
+likhitha:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -k1 Ch6S7F2 | cat Ch6S7F2[K[K[K[K[K[K[K[K[K[K[K[K[K[K[C[1@-[1@t[1@"[1@:[1@"[1@ 
+avahi-autoipd:x
+avahi:x
+backup:x
+bin:x
+colord:x
+daemon:x
+games:x
+gnats:x
+hplip:x
+irc:x
+kernoops:x
+libuuid:x
+lightdm:x
+likhitha:x
+list:x
+lp:x
+mail:x
+man:x
+messagebus:x
+news:x
+nobody:x
+proxy:x
+pulse:x
+root:x
+rtkit:x
+saned:x
+speech-dispatcher:x
+sync:x
+syslog:x
+sys:x
+usbmux:x
+uucp:x
+whoopsie:x
+www-data:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -t":" -k1 Ch6S7F2 > Ch6S7F 2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -t":" -k1 Ch6S7F2 > Ch6S7F22[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8@k1 Ch6S7F2 | cat[C[C[C[C[C[C[C[C[19P[C[C[C[C[C[C[C[C[C[C[C
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S7F2sort -t":" -k1 Ch6S7F2 > Ch6S7F22[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8@k1 Ch6S7F2 | cat[C[C[C[C[C[C[C[C[19P[C[C[C[C[C[C[C[C[C[C[Cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[20Pat Ch6S7F2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csort -t":" -k1 Ch6S7F2 > Ch6S7F22[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | cat Ch66S7F2
+root:x
+daemon:x
+bin:x
+sys:x
+sync:x
+games:x
+man:x
+lp:x
+mail:x
+news:x
+uucp:x
+proxy:x
+www-data:x
+backup:x
+list:x
+irc:x
+gnats:x
+nobody:x
+libuuid:x
+syslog:x
+messagebus:x
+colord:x
+lightdm:x
+whoopsie:x
+avahi-autoipd:x
+avahi:x
+usbmux:x
+kernoops:x
+pulse:x
+rtkit:x
+speech-dispatcher:x
+hplip:x
+saned:x
+likhitha:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -t":" -k1 Ch6S7F2 | cat Ch66S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cut -d":" -f1,2 Ch6S7F1 > Ch6S7F2[K
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ sort -t":" -k1 Ch6S7F2 | cat Ch6S7F2[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[KS7F2 > file
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ ca[K[Ksort -t":" -k1 Ch6S7F2 > file[K[K[K[K[K[K[K[K[K[K[K[K[K[K> Ch6S7Ff[K2[1@c[1@a[1@t[1@ [1@C[C[1@ h6S sort -t":" -k1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C7 sort -t":" -k1 > Ch6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[CF sort -t":" -k1 > Ch6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C2 sort -t":" -k1 > Ch6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C sort -t":" -k1 > Ch6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C| sort -t":" -k1 > Ch6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S7F2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S7F2 | sort -t":" -k1 > CCh6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [2Psort -t":" -k1 Ch6S7F2 > file
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[20Pat Ch6S7F2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | sort -t":" -k1 > CCh6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[20Pat Ch6S7F2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | sort -t":" -k1 > CCh6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [2Psort -t":" -k1 Ch6S7F2 > file
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat Ch6S7F2 | sort -t":" -k1 > CCh6S7F2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d":" -f1,2 Ch6S7F1 > Ch6S7FF2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[20Pat Ch6S7F2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | sort -t":" -k1 > CCh6S7F2[K[K[K[K[K[K[Kfile
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat file
+avahi-autoipd:x
+avahi:x
+backup:x
+bin:x
+colord:x
+daemon:x
+games:x
+gnats:x
+hplip:x
+irc:x
+kernoops:x
+libuuid:x
+lightdm:x
+likhitha:x
+list:x
+lp:x
+mail:x
+man:x
+messagebus:x
+news:x
+nobody:x
+proxy:x
+pulse:x
+root:x
+rtkit:x
+saned:x
+speech-dispatcher:x
+sync:x
+syslog:x
+sys:x
+usbmux:x
+uucp:x
+whoopsie:x
+www-data:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat file >Ch6S Ch6S[C[C[C[C&[K7F2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat Ch6S7F2
+avahi-autoipd:x
+avahi:x
+backup:x
+bin:x
+colord:x
+daemon:x
+games:x
+gnats:x
+hplip:x
+irc:x
+kernoops:x
+libuuid:x
+lightdm:x
+likhitha:x
+list:x
+lp:x
+mail:x
+man:x
+messagebus:x
+news:x
+nobody:x
+proxy:x
+pulse:x
+root:x
+rtkit:x
+saned:x
+speech-dispatcher:x
+sync:x
+syslog:x
+sys:x
+usbmux:x
+uucp:x
+whoopsie:x
+www-data:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$  wc [K[K[Khead -11 Ch6S7F2 > file1
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ head -11 Ch6S7F2 > file1[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktail -n+20 Ch6S7F2 | head -11 >  file2
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tail -n+20 Ch6S7F2 | head -11 >  file2[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C Ch6S7F2 | head -11 > f[1Pile2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C Ch6S7F2 | head -11 > fi[1Ple2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C1 Ch6S7F2 | head -11 > file2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C2 Ch6S7F2 | head -11 > file2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C
+
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ tail -n+12 Ch6S7F2 | head -11 >  file2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C20
+[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C head -11 > f[1Pile2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chead -11 > fi[1Ple2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cead -11 > fil[1Pe2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cad -11 > file[1P2[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd -11 > file2[K[A]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -11 > file2 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P[1P[1P[1@3
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$  paste -d":" file1 file2 file3  > newfile
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ cat newfile
+avahi-autoipd:x:pulse:x:pulse:x
+avahi:x:root:x:root:x
+backup:x:rtkit:x:rtkit:x
+bin:x:saned:x:saned:x
+colord:x:speech-dispatcher:x:speech-dispatcher:x
+daemon:x:sync:x:sync:x
+games:x:syslog:x:syslog:x
+gnats:x:sys:x:sys:x
+hplip:x:usbmux:x:usbmux:x
+irc:x:uucp:x:uucp:x
+kernoops:x:whoopsie:x:whoopsie:x
+:www-data:x:www-data:x
+]0;likhitha@likhitha-VirtualBox: ~likhitha@likhitha-VirtualBox:~$ exit
+exit
+
+Script done on Friday 09 August 2019 11:08:08 AM IST
